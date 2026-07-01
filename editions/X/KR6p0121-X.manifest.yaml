@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6p0121/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0121/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨土紺珠
+  identifiers:
+    krp: KR6p0121
+    cbeta: X62n1202
+    cbeta_old_id: X62n1202
+    authorityid: CA0001832
+    json_key: X1202
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1202.xml
+    old_id: X62n1202
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0121_000-X.yaml, hash: 'sha256:3f35b18d382a2914068df462c72ebef66d0072cfcb30f8a57c3d8fb90247818e'}
+  - {seq: 1, filename: KR6p0121_001-X.yaml, hash: 'sha256:dd5d564aa1d106760425929497acf809b1d06a0258dd8465f3b0e6d46a031b04'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0121_000-X.markers.yaml, hash: 'sha256:06d855ffe90299fc114e8abe0aa9edd38c9a87fbe26de03102af9671d4a12ea8'}
+  - {seq: 1, role: markers, filename: assets/KR6p0121_001-X.markers.yaml, hash: 'sha256:0d8ec45c3725a7c3d07592c1611d82544429b25635899ce27e8d2d86e1cf9412'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0121_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1202-A 淨土紺珠序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0121_X_000-mulu-2
+    span:
+    - front
+    - 261
+    - 261
+  label: No. 1202-B 自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0121_X_000-mulu-3
+    span:
+    - front
+    - 962
+    - 962
+  label: 例言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0121_X_000-mulu-4
+    span:
+    - front
+    - 1244
+    - 1244
+  label: 引用書目
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0121_X_000-mulu-5
+    span:
+    - front
+    - 1455
+    - 1455
+  label: 淨土紺珠目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0121_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 35594
+  label: 淨土紺珠
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0121_X_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 淨土紺珠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0121_X_001-mulu-2
+    span:
+    - body
+    - 35291
+    - 35291
+  label: No. 1202-C 䟦
+  type: mulu
+  level: 1
+hash: sha256:9279cfcac2880dbfc19d19284338ac18b21fbbbefcace1bfa355531214127e50
