@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0121_000.yaml, hash: 'sha256:3b6bde5a54a0a5acf4ead16b4a38c566ebc03cd6c464f945696a37e3ad8f2370'}
+  - {seq: 0, filename: KR6p0121_000.yaml, hash: 'sha256:5cf0c8d34776e0cf166c55dcde67827e9f5ea9f15877b4ace0defd3ac44f869c'}
   - {seq: 1, filename: KR6p0121_001.yaml, hash: 'sha256:3d0a966dc5a8ddf953c6abf92d7381f4dbfc16a6e6ce57abd52d2240c29f97f5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0121_000.markers.yaml, hash: 'sha256:3ad52ef8f4119587b82b9cd40bb903745d7f5b90968bc1d925b81f071a23dcae'}
+  - {seq: 0, role: markers, filename: assets/KR6p0121_000.markers.yaml, hash: 'sha256:8062147eb0318b3704761670131f327d1e5f331c3376a3ccc14dcb393b587057'}
   - {seq: 1, role: markers, filename: assets/KR6p0121_001.markers.yaml, hash: 'sha256:de1b00fb9e3ef0880f856f8383b3949901d17248be5b780728d3f3558f5d8cf1'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1202-A 淨土紺珠序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-2
     span:
-    - front
+    - body
     - 261
     - 261
   label: No. 1202-B 自敘
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-3
     span:
-    - front
+    - body
     - 962
     - 962
   label: 例言
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-4
     span:
-    - front
+    - body
     - 1244
     - 1244
   label: 引用書目
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-5
     span:
-    - front
+    - body
     - 1455
     - 1455
   label: 淨土紺珠目錄
@@ -107,7 +107,7 @@ table_of_contents:
   label: No. 1202-C 䟦
   type: mulu
   level: 1
-hash: sha256:c2d525100d1a55f85b5957b09d699bc53439214544b8ae3bdef6831a3e892d89
+hash: sha256:68d7ad9354f640d6531dd92b1d0e1bd0c7417cd2cd81d6e91fe654a9b138ebb4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

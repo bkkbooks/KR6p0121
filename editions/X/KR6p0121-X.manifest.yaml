@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0121_000-X.yaml, hash: 'sha256:3f35b18d382a2914068df462c72ebef66d0072cfcb30f8a57c3d8fb90247818e'}
+  - {seq: 0, filename: KR6p0121_000-X.yaml, hash: 'sha256:07e839509cbfe4059913941b4570faec52f6ce3694458568aef98df15b3b4d67'}
   - {seq: 1, filename: KR6p0121_001-X.yaml, hash: 'sha256:dd5d564aa1d106760425929497acf809b1d06a0258dd8465f3b0e6d46a031b04'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0121_000-X.markers.yaml, hash: 'sha256:06d855ffe90299fc114e8abe0aa9edd38c9a87fbe26de03102af9671d4a12ea8'}
+  - {seq: 0, role: markers, filename: assets/KR6p0121_000-X.markers.yaml, hash: 'sha256:0b558605e89ef47e91d5edf212f53aa9b2e82e000f7e6dfe8741a98699dccaeb'}
   - {seq: 1, role: markers, filename: assets/KR6p0121_001-X.markers.yaml, hash: 'sha256:0d8ec45c3725a7c3d07592c1611d82544429b25635899ce27e8d2d86e1cf9412'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1202-A 淨土紺珠序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-2
     span:
-    - front
+    - body
     - 261
     - 261
   label: No. 1202-B 自敘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-3
     span:
-    - front
+    - body
     - 962
     - 962
   label: 例言
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-4
     span:
-    - front
+    - body
     - 1244
     - 1244
   label: 引用書目
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0121_X_000-mulu-5
     span:
-    - front
+    - body
     - 1455
     - 1455
   label: 淨土紺珠目錄
@@ -105,4 +105,4 @@ table_of_contents:
   label: No. 1202-C 䟦
   type: mulu
   level: 1
-hash: sha256:9279cfcac2880dbfc19d19284338ac18b21fbbbefcace1bfa355531214127e50
+hash: sha256:ba9f67314aade89da31b67f20273ea2ee2fb6a6c6dc3d85d9dbd71458eca69c6
